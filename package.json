@@ -1,0 +1,19 @@
+{
+  "name": "background-color",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahsanullah77/Background-color.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahsanullah77/Background-color/issues"
+  },
+  "homepage": "https://github.com/ahsanullah77/Background-color#readme"
+}
